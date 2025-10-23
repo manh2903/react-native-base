@@ -13,6 +13,14 @@
 
 A minimal Expo-based React Native starter app used as a base template.
 
+## Stargazers over time
+
+[![GitHub stars](https://img.shields.io/github/stars/manh2903/react-native-base?style=social)](https://github.com/manh2903/react-native-base/stargazers)
+
+[![Stargazers over time](https://starchart.cc/manh2903/react-native-base.svg?variant=adaptive)](https://starchart.cc/manh2903/react-native-base)
+
+_If the chart looks empty it means the repository has no recorded stars yet or the external service needs a moment to index the repo._
+
 ## Summary
 
 This repository contains a small React Native application scaffolded to use Expo. It includes a simple navigation structure, several reusable components (global alerts, loading, toast, webview, bottom sheet), and example screens (Home, Detail, Notification, Profile, Settings).
@@ -113,3 +121,5 @@ If you'd like, I can also:
 - add a short script to make a dev setup easier (e.g., a PowerShell helper)
 
 Tell me which of those you'd like next.
+
+
