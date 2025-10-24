@@ -17,7 +17,7 @@ A minimal Expo-based React Native starter app used as a base template.
 
 [![GitHub stars](https://img.shields.io/github/stars/manh2903/react-native-base?style=social)](https://github.com/manh2903/react-native-base/stargazers)
 
-[![Stargazers over time](https://starchart.cc/manh2903/react-native-base.svg?variant=adaptive)](https://starchart.cc/manh2903/react-native-base)
+[![Stargazers over time](https://starchart.cc/manh2903/react-native-base.svg?variant=light)](https://starchart.cc/manh2903/react-native-base)
 
 _If the chart looks empty it means the repository has no recorded stars yet or the external service needs a moment to index the repo._
 
